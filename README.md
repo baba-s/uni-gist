@@ -1,6 +1,6 @@
 # UniGist
 
-「UniGist」は Unity エディタから Gist に投稿できるエディタ拡張です  
+「UniGist」は Unity から Gist に投稿できるエディタ拡張です  
 
 # 開発環境
 
