@@ -36,3 +36,8 @@ https://github.com/baba-s/uni-gist/blob/master/UniGist.unitypackage?raw=true
 
 「UniGistSettings」に項目を設定しておくと、  
 ユーザー名やパスワード、公開するかどうかの設定を省略できます  
+
+# 著作権について
+
+UniGist は「UnityExtensions.EditorCoroutine」を使用させていただいております  
+https://github.com/garettbass/UnityExtensions.EditorCoroutine
