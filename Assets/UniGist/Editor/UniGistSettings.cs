@@ -5,7 +5,7 @@ namespace KoganeEditorLib
 	/// <summary>
 	/// Unity から Gist に投稿するエディタ拡張のデフォルト設定を管理するクラス
 	/// </summary>
-	public sealed class UniGistSetting : ScriptableObject
+	public sealed class UniGistSettings : ScriptableObject
 	{
 		//====================================================================================
 		// 変数

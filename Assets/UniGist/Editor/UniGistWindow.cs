@@ -86,7 +86,7 @@ namespace KoganeEditorLib
 			position.Set( position.x, position.y, SIZE.x, SIZE.y );
 
 			var settingPath	= m_dir + "/UniGistSettings.asset";
-			var settings	= AssetDatabase.LoadAssetAtPath<UniGistSetting>( settingPath );
+			var settings	= AssetDatabase.LoadAssetAtPath<UniGistSettings>( settingPath );
 
 			if ( settings == null ) return;
 
